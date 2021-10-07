@@ -1,0 +1,12 @@
+C:\ProjectsVic\VCollections\obj\Debug\net5.0\VCollections.csproj.AssemblyReference.cache
+C:\ProjectsVic\VCollections\obj\Debug\net5.0\VCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsVic\VCollections\obj\Debug\net5.0\VCollections.AssemblyInfoInputs.cache
+C:\ProjectsVic\VCollections\obj\Debug\net5.0\VCollections.AssemblyInfo.cs
+C:\ProjectsVic\VCollections\obj\Debug\net5.0\VCollections.csproj.CoreCompileInputs.cache
+C:\ProjectsVic\VCollections\bin\Debug\net5.0\VCollections.deps.json
+C:\ProjectsVic\VCollections\bin\Debug\net5.0\VCollections.dll
+C:\ProjectsVic\VCollections\bin\Debug\net5.0\ref\VCollections.dll
+C:\ProjectsVic\VCollections\bin\Debug\net5.0\VCollections.pdb
+C:\ProjectsVic\VCollections\obj\Debug\net5.0\VCollections.dll
+C:\ProjectsVic\VCollections\obj\Debug\net5.0\ref\VCollections.dll
+C:\ProjectsVic\VCollections\obj\Debug\net5.0\VCollections.pdb
